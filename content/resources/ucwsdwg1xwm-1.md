@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
+file_type: application/pdf
+resourcetype: Document
+title: 3play pdf file
+uid: 424a7610-fccc-797a-aa24-55d392246057
+---
